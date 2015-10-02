@@ -1,0 +1,4 @@
+bloggy.komodoproject
+*.pyc
+__pycache__
+*.db
